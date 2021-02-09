@@ -6,3 +6,4 @@ target/
 .factorypath
 
 *.iml
+/src/test/resources/agent.yml
